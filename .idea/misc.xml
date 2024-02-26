@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Poetry (rc-circuit)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (rc-circuit)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.2 (sftp://pozas@192.168.100.84:22/home/pozas/.cache/pypoetry/virtualenvs/rc-circuit-5UQQCrOC-py3.9/bin/python)" project-jdk-type="Python SDK" />
 </project>
