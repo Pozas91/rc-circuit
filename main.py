@@ -58,7 +58,7 @@ def main():
 
 def send_data():
     # Prepare a timer to send the data every 2 seconds
-    Timer(10, send_data).start()
+    Timer(3, send_data).start()
 
     if not DATA:
         return
